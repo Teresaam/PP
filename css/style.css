@@ -2131,13 +2131,13 @@ padding: 0 0;
 
 .footercontact .social-top { float: none; height: auto; text-align: center; }
 
-footer { background: none repeat scroll 0 0 #4B4B4B; padding-bottom: 10px; border-top: medium none; color: #CFCFCF; height: auto; font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 22px;  position: relative; }
+.footer { background: none repeat scroll 0 0 #4B4B4B; padding-bottom: 10px; border-top: medium none; color: #CFCFCF; height: auto; font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: 22px;  position: relative; }
 
-footer a { color:#fff; }
+.footer a { color:#fff; }
 
-footer a:hover { color:#3498DB; }
+.footer a:hover { color:#3498DB; }
 
-footer h3 { color:#fff; text-shadow: 0 0 3px #000000; }
+.footer p { color:#fff; text-shadow: 0 0 3px #000000; text-align: center; padding-top: 10px;}
 
 /************Footer list***********/
 
